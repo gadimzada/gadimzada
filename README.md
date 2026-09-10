@@ -3,9 +3,9 @@
 
 - I’m currently working on **writing a step-by-step book from scratch with my own knowledge on ccna**
 
-- I'm currently working on **USEFULL YT-DLP-WINDOWS-BATCH SCRIPT (You don't need the options to use YT-DLP this script)**
+- I'm currently working on **USEFULL YT-DLP-WINDOWS-BATCH SCRIPT v2 (You don't need the options to use YT-DLP this script)**
 
-- I’m currently learning **C++ programming language**
+- I’m currently learning **Ubuntu SERVER**
 
 - Ask me about **You need an IT solution.**
 
